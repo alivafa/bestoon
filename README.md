@@ -63,7 +63,7 @@ The project contains two different clients (command line and an ionic app for an
 
 
 
-## TODO
+##   TODO
 - [x] a restful login service. user will give user pass and will get her token
 - [x] local storage for ionic app. will store token and will using it when calling anything
 - [x] create and submit the APK!
